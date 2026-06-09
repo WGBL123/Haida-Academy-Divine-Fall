@@ -1,0 +1,7 @@
+Game_name:付;
+Game_key:447bd3d66acf5f4;
+Title_img:BG_haida.png;
+Title_bgm:main_bgm.mp3;
+Textbox_theme:imss;
+Package_name:;
+Default_Language:zh_CN;
